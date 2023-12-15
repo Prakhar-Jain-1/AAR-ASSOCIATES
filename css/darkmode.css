@@ -1,0 +1,13 @@
+
+/* Existing CSS styles */
+
+/* New styles for dark mode */
+.dark-mode {
+    background-color: #111;
+    color: #fff;
+}
+
+.dark-mode header,
+.dark-mode footer {
+    background-color: #222;
+}
